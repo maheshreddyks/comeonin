@@ -1,7 +1,8 @@
 # comeonin
 ```
 ==> comeonin
-could not compile dependency :comeonin, "mix compile" failed. You can recompile this dependency with "mix deps.compile comeonin", update it with "mix deps.update comeonin" or clean it with "mix deps.clean comeonin"
+could not compile dependency :comeonin, "mix compile" failed. You can recompile this dependency with "mix deps.compile comeonin", 
+update it with "mix deps.update comeonin" or clean it with "mix deps.clean comeonin"
 ==> smode
 ** (Mix) Could not find the program `nmake`.
 You will need to install the C compiler `nmake` to be able to build
