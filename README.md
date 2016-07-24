@@ -27,4 +27,4 @@ cmd /K "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\vcvarsall.bat" am
 
 ![command prompt screen shot](./2016-07-24 12_20_09-Edit environment variable.jpg)
 
-- Navigate to you project(in the same command prompt) and run commands for deps , compile.
+- Navigate to you project(in the same command prompt) and run you commands
